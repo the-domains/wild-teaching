@@ -1,7 +1,7 @@
 name: Wild Teaching
 favicon: null
-layout_spectrum: 0.963541854172945
-typography_spectrum: 0.7696740147657692
+layout_spectrum: 0.0024
+typography_spectrum: 0.54299
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.42260608403012156
-  lightness: 0.24120895168744028
-  saturation: 0.48646983643993735
+  brandStrength: 0.1875
+  lightness: 0.3125
+  saturation: 0.5
   rhythmicContrast: 0.25048861373215914
 purpose: []
