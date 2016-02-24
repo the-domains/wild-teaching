@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Wild Teaching]]></title>
         <description><![CDATA[Wild Teaching]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wild-teaching/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 20:48:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 24 Feb 2016 20:48:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wild-teaching/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c84720b2-9776-49a2-a4c9-4ebd4300a625.jpg">]]></description>
-            <link>undefined5c666c75-5fb8-442f-9b7f-33e954074f8e/index.html</link>
+            <link>https://thegrid.ai/wild-teaching/5c666c75-5fb8-442f-9b7f-33e954074f8e/index.html</link>
             <guid isPermaLink="false">5c666c75-5fb8-442f-9b7f-33e954074f8e</guid>
-            <pubDate>Wed, 24 Feb 2016 20:47:15 GMT</pubDate>
+            <pubDate>Wed, 24 Feb 2016 20:48:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
